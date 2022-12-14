@@ -3,7 +3,7 @@ import streamlit as st
 
 
 
-s= pd.read_csv("C:/Users/NickDonohue/Downloads/social_media_usage.csv")
+s= pd.read_csv("social_media_usage.csv")
 
 
 import pandas as pd
